@@ -1,0 +1,2 @@
+# vsratoved
+Cringe advice generator
